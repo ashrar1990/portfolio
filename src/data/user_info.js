@@ -5,7 +5,7 @@ const info = {
         description: "I’m a Python Developer with 5+ years of experience in healthcare, banking, and transportation. I specialize in Python automation, data modeling, and web scraping, with strong expertise in SQL and data validation. I’ve optimized workflows and improved data accuracy across various industries and am seeking Python-focused opportunities to continue driving innovation through automation.",
         role: "Python Developer | Data Modeling | Web Scraping | SQL",
         photo: "../photo.png",
-        email: "no_reply@example.com",
+        email: "ashrar1990@gmail.com",
     },
 
     // ============ SOCIAL LINKS ============
