@@ -72,28 +72,28 @@ const info = {
             description: "This scraper extracts product information from Adidas' website based on categories and filters, using Azure DataFactories and AWS EC2 instances.",
             technologies: "Python, Scrapy, Pandas, MySQL, AWS, Azure",
             github: "",
-            link: ""
+            link: "https://drive.google.com/file/d/17YF2qq1OsEdYkUHN7uWxYdlM6d-kdUuz/view?usp=drive_link"
         },
         {
             title: "Bookings.com Scraper",
             description: "Developed a scraper to collect business information, reviews, and booking details from bookings.com.",
             technologies: "Python, Scrapy, Pandas, MySQL",
             github: "",
-            link: ""
+            link: "https://drive.google.com/file/d/13eNpCCmUpWJgL-wEbymuJGf6_-OpN82V/view?usp=drive_link"
         },
         {
             title: "Leads Generation using LinkedIn and Social Media",
             description: "Developed a bot that scrapes Google Maps and retrieves stakeholder information from LinkedIn for lead generation.",
             technologies: "Python, Scrapy, Pandas, MySQL",
             github: "",
-            link: ""
+            link: "https://drive.google.com/file/d/1JGZtcEZVbmGTyaqby2Ho_RSHbgzX_ZZH/view?usp=drive_link"
         },
         {
             title: "Amazon Products Scraping",
             description: "Scraped Amazon listings for product attributes such as Name, Price, Reviews, and more, for market research and competitor analysis.",
             technologies: "Python, Scrapy, Pandas, MySQL, AWS, Azure",
             github: "",
-            link: ""
+            link: "https://drive.google.com/file/d/1EnH3N2iyUbZz85UtHhsuXttL0paUGI1B/view?usp=drive_link"
         },
     ],
 
