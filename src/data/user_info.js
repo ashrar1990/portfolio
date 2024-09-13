@@ -58,9 +58,9 @@ const info = {
     // ============ EDUCATION ============
     education: [
         {
-            school: "School Name, Gujrat India",
-            degree: "Degree in Computer Science",
-            duration: "Month 20XX - Month 20XX",
+            school: "RJ Tibrewal Commerce College, Gujrat India",
+            degree: "Bachelor of Commerce",
+            duration: "March 2010 - June 2014",
             image: "school.webp"
         }
     ],
